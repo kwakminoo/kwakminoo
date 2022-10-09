@@ -1,5 +1,7 @@
 # PACIFIC
 
+![PACIFIC](https://user-images.githubusercontent.com/105197503/194773021-8bf74053-7a67-48a0-b358-898626473932.gif)
+
 - 👋 email: kwakmw12@naver.com
 - 👀 I’m interested in [java, C, HTML, ...]
 - 🌱 I’m currently learning ...
