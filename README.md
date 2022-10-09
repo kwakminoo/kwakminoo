@@ -1,6 +1,6 @@
 # PACIFIC
 
-![PACIFIC 1](https://user-images.githubusercontent.com/105197503/194773127-6a6bd447-3a1b-458e-a051-069351af9211.gif)
+                   ![PACIFIC 1](https://user-images.githubusercontent.com/105197503/194773127-6a6bd447-3a1b-458e-a051-069351af9211.gif)
 
 
 - 👋 email: kwakmw12@naver.com
